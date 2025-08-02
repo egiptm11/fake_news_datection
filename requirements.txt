@@ -17,4 +17,3 @@ Pillow
 
 # System dependencies
 python-dateutil
-setuptools
