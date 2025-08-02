@@ -3,6 +3,7 @@ import re
 import joblib
 import pandas as pd
 import numpy as np
+import io
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
